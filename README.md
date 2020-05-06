@@ -1,1 +1,1 @@
-# Jnews
+# JuaraNews
